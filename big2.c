@@ -1,8 +1,8 @@
 #include <stdio.h>  
    
-void big2() 
+int big2() 
 {  
-    int a, b;  
+    int a, b;
     printf("Please Enter Two different values\n");  
     scanf("%d %d", &a, &b);  
     
